@@ -1,7 +1,0 @@
-﻿# Backend Project
-
-## Installation
-npm install
-
-## Run
-node index.js
